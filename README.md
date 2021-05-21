@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mARk-android known as mARkOS 
+# Hi, I’m @mARk-android known as mARkOS 
 - 👀 I'm a beginner man from Poland.
 - 🌱 I'm builder of some ROMs on Redmi Note 8 ginkgo willow  and Mi5s Plus Devices, because i'have got this models and can test my builds.
 - 💞️ I keep learning, increase knowledge, everyday somthing new... 
